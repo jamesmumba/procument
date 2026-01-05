@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Agripa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
